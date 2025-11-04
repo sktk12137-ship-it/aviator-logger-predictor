@@ -1,4 +1,4 @@
-# Aviator Game Predictor
+92dadu# Aviator Game Predictor
 NOTE: I "vibe-coded" through this project;
 Tldr: Aviator is extremely random and is a zero-sum game except for the fact that you are the one who will keep losing! Please don't even try it.
 
